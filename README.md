@@ -29,7 +29,7 @@ the theme. Use `M-x customize-themes` to change your current theme.
 Download this repository locally with `git clone`: 
 
 ```
-git clone git://github.com/a9sk/amaranth-dark-theme.git
+git clone https://github.com/a9sk/amaranth-dark-theme.git
 ```
 
 Then add this to your emacs config somewhere (.emacs,
